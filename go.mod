@@ -1,4 +1,4 @@
-module github.com/gemnasium/logrus-graylog-hook/v3
+module github.com/liteck/logrus-graylog-hook/v3
 
 require (
 	github.com/pkg/errors v0.8.1
